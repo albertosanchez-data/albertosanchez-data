@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Alberto Sánchez 👋
 
-<!--
-**albertosanchez-data/albertosanchez-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Systems Engineer & Data Analytics Enthusiast
+I specialize in SQL querying, database design, and data modeling using **PostgreSQL** and **DBeaver**. Currently expanding my skillset towards Data Engineering.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+- **Databases:** PostgreSQL, ANSI SQL
+- **Database Tools:** DBeaver, pgAdmin
+- **Data Engineering Concepts:** Data Modeling, Aggregations, Window Functions, ETL/ELT Basics
+- **Version Control:** Git, GitHub
+
+---
+
+### 📂 Highlighted Repositories
+- 📊 [postgresql-data-engineering](https://github.com/albertosanchez-data/postgresql-data-engineering) — *Structured collection of SQL scripts, queries, and database practices.*
+
+---
+
+### 📬 Connect with me
+- **LinkedIn:** [Alberto Sánchez](https://linkedin.com) *(Agrega tu enlace aquí)*
+- **GitHub:** [@albertosanchez-data](https://github.com/albertosanchez-data)
