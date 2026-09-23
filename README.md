@@ -2,7 +2,7 @@
 
 ### Systems Engineer | Junior Data Analyst
 
-I'm a Systems Engineer transitioning into **Data Analytics**, with a strong technical foundation and a growing focus on **SQL, PostgreSQL, Power BI, and Excel**.
+I'm a Systems Engineer, with a strong technical foundation and a growing focus on **SQL, PostgreSQL, Power BI, and Excel**.
 
 I enjoy working with data to understand problems, identify patterns, and transform information into clear and useful insights.
 
