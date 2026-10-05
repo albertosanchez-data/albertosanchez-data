@@ -185,7 +185,7 @@ My goal is to continue developing as a data professional while contributing to p
 ## 🔗 Connect With Me
 
 **LinkedIn:**
-https://www.linkedin.com/in/alberto-sanchez-00098b430/
+https://www.linkedin.com/in/alberto-sanchez-data/
 
 **GitHub:**
 https://github.com/albertosanchez-data
