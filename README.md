@@ -120,7 +120,7 @@ The project includes:
 * Power BI dashboards
 * Analytical conclusions
 
-[View Project Repository](https://github.com/albertosanchez-data)
+[View Project Repository](https://github.com/albertosanchez-data/qt-exp-001-flight-19)
 
 ## 💼 Professional Background
 
