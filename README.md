@@ -70,7 +70,7 @@ The project includes:
 
 **Data Quality → SQL Analysis → Business Questions → KPIs → Power BI → Business Insights**
 
-[View Project Repository](https://github.com/albertosanchez-data)
+[View Project Repository]([https://github.com/albertosanchez-data](https://github.com/albertosanchez-data/olist-brazilian-ecommerce-analysis))
 
 ---
 
