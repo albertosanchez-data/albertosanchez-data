@@ -1,70 +1,66 @@
 # Hi, I'm Alberto Sanchez 👋
 
-### Data Analyst | Business Analyst | Data Quality | SQL | PostgreSQL | Power BI | Excel
+### Data Analyst | Business Analyst | Data Quality | SQL | PostgreSQL | Python | Power BI | Excel
 
 I'm a Systems Engineer and Data Analyst focused on turning business data into clear, actionable insights.
 
-I combine **SQL, PostgreSQL, Excel, and Power BI** to analyze sales, customers, products, operations, KPIs, and business performance. My approach is business-focused: understand the question, validate the data, perform the analysis, and communicate findings clearly.
+I use SQL, PostgreSQL, Python, Excel, and Power BI to investigate business questions, validate data, analyze KPIs, identify patterns, and communicate findings through clear reports and dashboards.
 
-My professional background includes experience in **business operations, sales, inventory management, purchasing, cost control, quality, reporting, and process improvement**, giving me a practical understanding of how business processes generate data and how that data can support better decisions.
+My professional background includes business operations, sales, inventory management, purchasing, cost control, quality, reporting, and process improvement. This experience helps me connect technical analysis with practical business needs.
 
 ## 🛠️ Technical Skills
 
-* **SQL**
-* **PostgreSQL**
-* **Microsoft Excel**
-* **Power BI**
-* **DBeaver**
-* **pgAdmin**
-* **Relational Data Analysis**
-* **Data Cleaning & Validation**
-* **Data Quality**
-* **KPI Analysis & Reporting**
-* **Data Visualization**
-* **Dashboard Development**
-* **Git & GitHub**
-* **Python**
+- **Data Analysis:** SQL, PostgreSQL, Python, pandas
+- **Business Intelligence:** Power BI, dashboard development, KPI reporting
+- **Data Quality:** Data profiling, validation, missing-value analysis, duplicate detection
+- **Business Analysis:** Sales performance, customer behavior, revenue and cancellation analysis
+- **Data Management:** Relational databases, JOINs, CTEs, subqueries, window functions
+- **Tools:** Microsoft Excel, DBeaver, pgAdmin, Git, GitHub
 
-## 📊 Data Analytics
+## 📊 Featured Projects
 
-My analytical experience includes:
+### 🏨 Hotel Revenue & Booking Intelligence
 
-* Data extraction and analysis
-* Data cleaning and validation
-* Data quality checks
-* Aggregations and KPI analysis
-* JOINs
-* Subqueries
-* Common Table Expressions (CTEs)
-* Window Functions
-* Date and time analysis
-* Relational data analysis
-* Business performance analysis
-* Customer and sales analysis
-* Product and seller analysis
-* Logistics and delivery analysis
-* Dashboard development
-* Business reporting and insights
+**PostgreSQL | SQL | Python | pandas | Power BI | Data Quality**
 
-## 📁 Featured Projects
+An end-to-end hotel booking analytics project analyzing **119,390 booking records** to investigate booking patterns, cancellations, revenue-related metrics, and data quality.
+
+The project includes:
+
+- SQL-based booking and cancellation analysis
+- Hotel performance comparisons
+- Cancellation analysis by lead time and market segment
+- Data profiling and missing-value investigations using Python
+- ADR data quality checks
+- KPI validation and analytical documentation
+- Interactive Power BI dashboards
+
+**Key finding:** The City Hotel cancellation rate was 41.73%, compared with 27.76% for the Resort Hotel.
+
+**Analytical workflow:**
+
+**Data Profiling → Data Quality → PostgreSQL & SQL → Business Analysis → Power BI → Insights**
+
+[View Project Repository](https://github.com/albertosanchez-data/hotel-revenue-booking-intelligence)
+
+---
 
 ### 🛒 Olist Brazilian E-Commerce Analysis
 
 **PostgreSQL | SQL | Power BI | Data Quality | Business Analysis**
 
-End-to-end analysis of a Brazilian e-commerce relational database containing approximately 100,000 orders.
+An end-to-end analysis of a Brazilian e-commerce dataset containing approximately 100,000 orders.
 
-The project includes:
+The project explores:
 
-* Data quality and validation checks
-* Relational database analysis
-* Sales and customer analysis
-* Product and seller performance
-* Payment analysis
-* Customer reviews
-* Logistics and delivery performance
-* KPI analysis
-* Power BI dashboards
+- Relational database analysis
+- Sales and customer performance
+- Product and seller analysis
+- Payment behavior
+- Customer reviews
+- Logistics and delivery performance
+- Data validation and business KPIs
+- Power BI dashboard development
 
 **Analytical workflow:**
 
@@ -78,16 +74,16 @@ The project includes:
 
 **SQL | Excel | Business Analysis**
 
-Business-focused analysis of customer sales performance and segmentation.
+A business-focused project analyzing sales performance and customer purchasing behavior.
 
-The project demonstrates the use of SQL and Excel to:
+The project demonstrates how SQL and Excel can support:
 
-* Analyze customer purchasing behavior
-* Calculate sales metrics
-* Identify high-value customers
-* Compare customer performance
-* Support business segmentation
-* Generate actionable business insights
+- Customer sales analysis
+- Purchasing behavior analysis
+- Sales metric calculations
+- Identification of high-value customers
+- Customer performance comparisons
+- Business segmentation and reporting
 
 **Analytical workflow:**
 
@@ -101,91 +97,78 @@ The project demonstrates the use of SQL and Excel to:
 
 **PostgreSQL | SQL | Power BI | Data Analysis**
 
-An independent data investigation combining structured data analysis with hypothesis evaluation.
-
-The project demonstrates an end-to-end analytical workflow:
-
-**PostgreSQL → SQL → Data Analysis → Evidence Analysis → Power BI → Hypothesis Evaluation**
+An independent analytical investigation combining structured data analysis, timeline investigation, geographic analysis, and hypothesis evaluation.
 
 The project includes:
 
-* Relational database design
-* SQL analysis
-* Data validation
-* Analytical queries
-* Evidence analysis
-* Hypothesis evaluation
-* Timeline analysis
-* Geographic analysis
-* Power BI dashboards
-* Analytical conclusions
+- Relational database design
+- SQL queries and data validation
+- Timeline and geographic analysis
+- Evidence organization and hypothesis evaluation
+- Power BI dashboards
+- Evidence-based analytical conclusions
+
+**Analytical workflow:**
+
+**PostgreSQL → SQL → Data Analysis → Evidence Evaluation → Power BI → Conclusions**
 
 [View Project Repository](https://github.com/albertosanchez-data/qt-exp-001-flight-19)
 
 ## 💼 Professional Background
 
-My professional experience has provided me with practical exposure to the business processes behind the data.
+My professional background provides practical experience with the business processes that generate operational and commercial data.
 
 ### Business Operations & Administration
 
-Experience with:
-
-* Sales analysis
-* Purchasing
-* Inventory management
-* Cost control
-* Business reporting
-* Customer service
-* Operational performance
-* Process improvement
+- Sales and operational reporting
+- Purchasing and inventory management
+- Cost control
+- Customer service
+- Business performance monitoring
+- Process improvement
 
 ### Retail Operations
 
-Experience analyzing and managing:
-
-* Sales indicators
-* Inventory
-* Waste and shrinkage
-* Receiving
-* Cycle counts
-* Cash operations
-* Operational reports
+- Sales indicators and inventory control
+- Waste and shrinkage monitoring
+- Receiving and cycle counts
+- Cash operations
+- Operational reports
 
 ### Quality & Process Analysis
 
-Experience with:
-
-* Quality data
-* Defect analysis
-* Root-cause analysis
-* Corrective actions
-* Process improvement
-* Customer requirements
-* Quality reporting
+- Quality data analysis
+- Defect investigation
+- Root-cause analysis
+- Corrective actions
+- Process improvement
+- Customer requirements and quality reporting
 
 ## 🎯 Professional Focus
 
-I'm currently seeking opportunities as a:
+I'm seeking opportunities as a:
 
-* **Data Analyst**
-* **Business Analyst**
-* **Data Quality Analyst**
-* **Business Intelligence Analyst**
+- **Data Analyst**
+- **Business Analyst**
+- **Data Quality Analyst**
+- **Business Intelligence Analyst**
 
-I'm particularly interested in **remote and hybrid opportunities** where I can combine technical data skills with practical business knowledge.
+I'm particularly interested in remote and hybrid opportunities where I can combine technical data skills with practical business knowledge.
 
-My goal is to continue developing as a data professional while contributing to projects involving **data analysis, business intelligence, data quality, reporting, KPIs, and decision support**.
+My goal is to help organizations improve reporting, understand business performance, strengthen data quality, monitor KPIs, and make better-informed decisions.
 
 ## 🌎 Languages
 
-* **Spanish:** Native
-* **English:** Fluent / Advanced
-* **Chinese:** Basic
+- **Spanish:** Native
+- **English:** Advanced / Fluent
+- **Chinese:** Basic
 
 ## 🔗 Connect With Me
 
-**LinkedIn:**
-https://www.linkedin.com/in/alberto-sanchez-data/
+**LinkedIn:** [linkedin.com/in/alberto-sanchez-data](https://www.linkedin.com/in/alberto-sanchez-data/)
 
-**GitHub:**
-https://github.com/albertosanchez-data
+**GitHub:** [github.com/albertosanchez-data](https://github.com/albertosanchez-data)
+
+---
+
+*This portfolio demonstrates my ongoing development in data analytics, business intelligence, and data quality through practical, end-to-end projects.*
